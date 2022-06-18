@@ -1,7 +1,0 @@
-- belajar node js
-- belajar php 
-- belajar laravel
-- belajar rest api
-
-
-ini budi
